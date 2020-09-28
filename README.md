@@ -11,6 +11,6 @@ Register / Login project for Duality Systems application process.
 
 ## Usage
 
-Once the app is up and running you cvan regsiter yourself, login and see how user data is being pulled from the DB!
+Once the app is up and running you can register yourself, login and see how user data is being pulled from the DB!
 
 This app is running React in the front end and Node.js, express and MongoDB in the back end. 
