@@ -1,0 +1,37 @@
+.back-arrow {
+  color: orangered;
+  font-size: 55px;
+}
+
+.back-arrow:hover {
+  color: #000080;
+  -webkit-transition: color 0.3s;
+  -moz-transition: color 0.3s;
+  -ms-transition: color 0.3s;
+  -o-transition: color 0.3s;
+  transition: color 0.3s;
+}
+
+.register-header {
+  font-family: "Kumbh Sans", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: gray;
+}
+
+.form-register-btn {
+  background-color: transparent;
+  color: orangered;
+  border-radius: 0px;
+  border: 0px;
+  border-bottom: 1px solid orangered;
+  font-size: 28px;
+  margin-bottom: 20px;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.form-register-btn:hover {
+  background-color: transparent;
+  color: black;
+  border-bottom: 1px solid orangered;
+}

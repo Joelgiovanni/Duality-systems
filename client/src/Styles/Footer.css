@@ -1,0 +1,26 @@
+.footer-container {
+  border-top: 1px solid orangered;
+  height: 150px;
+}
+
+.footer-logo {
+  border-radius: 10px;
+  height: 60px;
+}
+
+.footer-name {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+@media only screen and (max-width: 760px) {
+  .footer-logo {
+    height: 40px;
+  }
+
+  .footer-container {
+    height: 75px;
+  }
+  .footer-name {
+    font-size: 17px;
+  }
+}

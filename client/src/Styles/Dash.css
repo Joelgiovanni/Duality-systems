@@ -1,0 +1,93 @@
+.user-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 10px rgba(239, 103, 5, 0.4);
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  width: 700px;
+  font-family: "Kumbh Sans", sans-serif;
+  margin-bottom: 5%;
+  margin-left: auto !important;
+  margin-right: auto;
+}
+
+.summary {
+  opacity: 0.6;
+  margin: 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.user-info {
+  color: gray;
+}
+
+.message {
+  margin-top: 20px;
+}
+
+.logout-btn {
+  color: gray;
+  font-size: 34px;
+}
+
+.logout-btn:hover {
+  color: orangered;
+}
+.logout-row {
+  margin-bottom: 5%;
+}
+
+.welcome-header {
+  font-family: "Kumbh Sans", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: gray;
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.user-card h2 {
+  letter-spacing: 1px;
+  margin: 10px 0;
+}
+
+.user-welcome {
+  background-color: orangered;
+  color: #fff;
+  padding: 30px;
+  max-width: 250px;
+}
+
+.user-welcome p {
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  opacity: 0.6;
+  margin-top: 30px;
+  text-decoration: none;
+}
+
+.card-info {
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.btn-card {
+  background-color: #2a265f;
+  border: 0;
+  border-radius: 50px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+  color: #fff;
+  font-size: 16px;
+  padding: 12px 25px;
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  letter-spacing: 1.5px;
+}
+
+@media screen and (max-width: 480px) {
+}
